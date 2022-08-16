@@ -1,4 +1,6 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Amr</h2>
+<img alt="Night Coding" src="./assets/github-contribution-grid-snake.svg" width='100%' align="left"/>
+
+<h2>Hey there! I'm Amr</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Amr -->
 
@@ -42,8 +44,9 @@
 <a href="https://github.com/aaly00">
 <div align="center">
   <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaly00&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img  width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaly00&layout=compact&langs_count=4&theme=material-palenight"/>
- </div>
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaly00&theme=material-palenight&hide_border=true" />
+
+  </div>
  <div align="center">
    <img width="98.5%" src="https://activity-graph.herokuapp.com/graph?username=aaly00&theme=rogue&hide_border=true&area=true"/>
 </div>
