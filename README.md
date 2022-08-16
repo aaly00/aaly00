@@ -40,8 +40,13 @@
 
 <p align="center">
 <a href="https://github.com/aaly00">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaly00&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaly00&layout=compact&langs_count=8&theme=algolia"/>
+<div align="center">
+  <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaly00&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img  width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aaly00&layout=compact&langs_count=4&theme=material-palenight"/>
+ </div>
+ <div align="center">
+   <img width="98.5%" src="https://activity-graph.herokuapp.com/graph?username=aaly00&theme=rogue&hide_border=true&area=true"/>
+</div>
 </a>
 </p>
 
