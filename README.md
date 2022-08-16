@@ -10,7 +10,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm a Full Stack Software Engineer and a tinkerer and hacker at heart.\
+🎓 &nbsp;I'm a Full Stack Software Engineer, and a tinkerer and a hacker at heart.\
 ✍️ &nbsp;In my free time, I like scuba diving, travelling, and building and flying FPV drones.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at hi@amraly.cc! I'll try to respond as soon as I can.
