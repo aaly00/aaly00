@@ -1,5 +1,6 @@
+<div align="center">
 <img alt="Night Coding" src="./assets/github-contribution-grid-snake.svg" width='100%' align="left"/>
-
+</div>
 <h2>Hey there! I'm Amr</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Amr -->
