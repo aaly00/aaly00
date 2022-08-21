@@ -46,7 +46,7 @@
 <p align="center">
 <a href="https://github.com/aaly00">
 <div align="center">
-  <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaly00&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
+  <img width="49.5%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aaly00&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true&hide_border=true"/>
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaly00&theme=material-palenight&hide_border=true" />
 
   </div>
