@@ -15,6 +15,8 @@
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at hi@amraly.cc! I'll try to respond as soon as I can.
 
+#### Coding hours since Aug 16, 2022
+[![wakatime](https://wakatime.com/badge/user/c2b9d611-e9d1-4716-8f79-ab6992fa2546.svg)](https://wakatime.com/@c2b9d611-e9d1-4716-8f79-ab6992fa2546)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/aaly00/aaly00/master/assets/Night-Coding.gif" align="right"/>
 
