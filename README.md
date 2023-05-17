@@ -53,7 +53,7 @@
 
   </div>
  <div align="center">
-   <img width="99.3%" src="https://activity-graph.herokuapp.com/graph?username=aaly00&theme=rogue&hide_border=true&area=true"/>
+   <img width="99.3%" src="https://github-readme-activity-graph.cyclic.app/graph?username=aaly00&theme=rogue&hide_border=true&area=true"/>
 </div>
 </a>
 </p>
